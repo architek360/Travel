@@ -1,0 +1,2 @@
+serviceClass: com.travel.me.client.TravelInfoService
+path: D9EC6619DE067F6C42E73E2C20E6A81C.gwt.rpc
