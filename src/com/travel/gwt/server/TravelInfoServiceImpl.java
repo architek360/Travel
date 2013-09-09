@@ -2,7 +2,7 @@ package com.travel.gwt.server;
 import java.util.ArrayList;
 import java.util.Date;
 
-import com.travel.gwt.client.TravelInfoService;
+import com.travel.gwt.client.travelinfo.TravelInfoService;
 import com.travel.gwt.shared.PersonalData;
 import com.travel.server.common.MyUtil;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;

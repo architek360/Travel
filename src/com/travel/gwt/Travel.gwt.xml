@@ -20,7 +20,7 @@
   <!-- Other module inherits                                      -->
 
   <!-- Specify the app entry point class.                         -->
-  <entry-point class='com.travel.gwt.client.Travel'/>
+  <entry-point class='com.travel.gwt.client.travelinfo.Travel'/>
   <source path='client'/>
   <source path='shared'/>
 </module>
